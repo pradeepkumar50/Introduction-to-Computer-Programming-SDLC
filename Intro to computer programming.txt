@@ -1,0 +1,322 @@
+Introduction to computer programming
+-------------------------------------------
+Computer programming is the process of writing a set of instructions that tells a 
+computer how to process data and produce results.
+Computer understands only machine code.
+Microprocessers(CPU's) understand special kind of languages known as machine code.
+Machine code is made up of binary numbers.
+We write computer program using  high level languages java, javascript, python, nodejs..... (source code).
+The proceessor converts into low level language called as (machine code).
+
+
+source code ---------------------------------------------------- Machine code.
+(High level language)                                               (low level language) 
+
+
+=> c++, java, rust ---etc is a complied languages.
+=> This process is called Ahead of Time compliation.
+
+=> Interpreter converts source code to machine code during execution.
+eg: javaScript, Python.
+=> This porcess is called Just in Time compliation.
+=> Javascript source code is complied to byte code and then compiled to machine code then executed.
+
+
+
+Syntax and source code
+-----------------------------------------------------------------------------------------------
+variables are used to store data.
+
+statically typed languages -- java, c++, rust, .. etc 
+eg - float cost = 20.5
+
+dynamically typed languages -- javaScript, python,php,ruby .. etc
+eg - let cost = 20.5
+
+Data sturctures
+-------------------------------------------------------------------------------------------------
+stacks --- last in fast out .
+eg - undo in vs code
+
+arrays - collection of data.
+eg - let data = ["pradeep", "kumar", "kairamkonda"];
+
+Queue - First in First out
+eg - songs added first will play first.
+
+History of Programming.
+---------------------------------------------------------------------------------------------------
+
+1 | The History of Programming – Part 0 by Mark Rendle
+
+Watch Here: https://www.youtube.com/watch?v=Tr9E_vzKRVo
+
+2 | The History of Programming – Part 1 by Mark Rendle
+
+Watch Here: https://www.youtube.com/watch?v=2-mFWi5oLkM
+
+3 | History of Programming Languages – Brian Kernighan
+
+Watch Here: https://www.youtube.com/watch?v=KUGtBzws-ic
+
+------------------------------------------------------------------------------------------------------
+
+Building blocks of code 
+------------------------------------------------------------------------------------------------------
+
+Introduction to Pseudocode
+--------------------------
+
+Pseudocode is an artificial language that uses plain english language statements to express features and
+abilites like a real programming language.
+It is used to express algorithms
+It is used by the both beginners and seasoned programmars.
+Allows to express logic and functionality in a simplified mannar.
+Pseudocode is a not real programming language.
+You cannot exeute pseudocode like real program.
+
+California Polytechnic pseudocode Reference
+-------------------------------------------------------------------------------------------------------
+
+Watch here : https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
+
+-------------------------------------------------------------------------------------------------------
+
+Think like a coder:
+
+--------------------------------------------------------------------------------------------------------
+Algorithm :  A algorithm is a sequence of ordered steps required to achieve solution.
+                       or
+             Algorithm is a sequence of steps to acheive a task 
+
+Software Developent Life Cycle (7 stages)
+-----------------------------
+
+         Planning 
+            |
+            |
+         Analysis
+            |
+            |
+         Design
+            |
+            |
+         Development
+            |
+            |
+          Testing
+            |
+            |
+          Deployment
+            |
+            |
+          Maintainance
+
+----------------------------------------------------------------------------------
+
+Example
+-------------------------------------------------------------------------------
+
+Take a work item(task) and assign with your name.
+
+=> Algorithm - logic using simple grammar steps about task(on book)
+=> Pseudocode - Apply logic for task using pseudocode (on book)
+=> Coding - Now write real code on editor using vs code
+
+-------------------------------------------------------------------------------------
+
+Intoduction to web and Full stack technologies
+-------------------------------------------------------------------------------------
+world wide web(www)
+------------------------------------------------------------------------------------
+
+=> It was developed for scientists of different universites and instuties to share information
+   automatically worldwide.
+=> www has a collection of websites and webpages containing information like hypperlinkes and
+   hypertexts.
+=> www is a project European particle physics labaratory called CERN.
+=> Tim Berner's lee a british scientist published www in 1991.
+=> 1993,CERN declared that www is avaiable for free to be used for anyone in the world.
+
+
+Internet vs www
+----------------
+=> The internet is a global network infrastructure that connects devices and network worldwide,
+   facilating data exchange and communication using protocals like TCP/IP
+
+=> The world wide web is a subset of internet, providing a user friendly system for accessing and
+   navigating hypertext documents and multimedia content through web browsers using the HTTP protocol.
+
+Web Browsers
+-----------------
+=> web browser is an application through which we can access information on the internet or web.
+eg- google, firefox etc
+=> Browser is a link b/w us and internet.
+
+------------------------------------------------------------------------------------------------
+web development paradigms
+-------------------------------------------------------------------------------------------------
+Library vs Framework
+------------------------------------------------------------------------------------------------
+Library: is a bunch of ready made code put together.
+Framework is a step by step instruction or guideline to create something.
+-------------------------------------------------------------------------------------------------
+Frontend technologies:
+HTML5
+CSS3
+JavaScript
+Bootstrap
+sass
+less
+figma
+jQuery
+Typescript
+Angular
+React 
+vue
+
+Backend Technologies:
+
+Node js + express js
+java + spring + springboot
+
+Database Technologies:
+Mongo DB
+Mysql
+
+static website : The user cannot interact or cannot add to the data.
+
+eg : Color Hunt website
+
+Dynamic Website : The user is able to intract with the website and add to the database.
+
+website is static and web-app is dynamic.
+-----------------------------------------------------------------------------------------------------------
+Think like a Coder
+-----------------------------------------------------------------------------------------------------------
+Link: https://zapier.com/blog/think-like-a-programmer/
+
+Watch Here:  https://youtu.be/kq2IukJmQYw
+
+----------------------------------------------------------------------------------------------------------
+
+Extra Insights - Learning Scratch
+
+1 | Getting Started with Scratch (PDF)
+Read Here: https://resources.scratch.mit.edu/www/guides/en/Getting-Started-Guide-Scratch2.pdf
+
+2 | The Scratch Tutorial
+Read Here: https://scratch-tutorial.readthedocs.io/fr/latest/index.html
+
+3 | The Scratch YouTube Channel
+Access Here: https://www.youtube.com/@ScratchTeam 
+
+
+----------------------------------------------------------------------------------------------------------
+
+Application Programming Interface (API's)
+----------------------------------------------------------------------------------------------------------
+
+API is a common communication interface that enables software with different technologies to talk to 
+each other or collaborate to each other is known as API.
+
+API acts as intermediary b/w the client and server and help them communicate to each other instead of ,
+what technologies being used to develop the client side or the server side.That is why API is required.
+
+Types of API's
+---------------------------------------------------
+Open API's
+Internal API's
+Partner API's
+Composite API's
+webhooks
+Protocol based API's
+--------------------------------------------------
+
+API Architecture and Protocols
+
+-------------------------------------------------
+Rest API(Representational State Transfer)
+Soap API (simple object access protocol)
+GraphQL API
+
+Rest is arhitecture based and soap is protocol based.
+------------------------------------------------
+understanding HTTP Methods
+-----------------------------------------------
+GET,POST,PUT,DELETE, PATCH
+------------------------------------------------
+
+MVC ARchitecture
+
+model - manages the application data and business logic. (logic written in model)
+view - Handles the graphical interface components.
+controller - acts as a mediator and manages the interaction b/w the model and view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
